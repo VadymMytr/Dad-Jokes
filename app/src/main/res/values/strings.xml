@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dad Jokes</string>
+    <string name="loading">Loading</string>
+    <string name="load_jokes">Load Jokes</string>
+    <string name="no_jokes">There are no jokes stored in app. Click "Load Jokes" to load some items.</string>
+
+    <string name="snackbar_loading_failed">Loading failed ;(</string>
+    <string name="snackbar_item_removed">Item removed</string>
+</resources>
